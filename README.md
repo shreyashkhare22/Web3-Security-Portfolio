@@ -65,10 +65,7 @@ My reviews focus on:
 
 # 📬 Contact
 
-Twitter: [@itzshreyashh](https://twitter.com/itzshreyashh)  
-
-Twitter/X: @itzshreyashh
-
-Telegram: @shreyashkhare70
-
-Discord: crap0x0
+- Twitter: [@itzshreyashh](https://twitter.com/itzshreyashh)  
+- Twitter/X: @itzshreyashh
+- Telegram: @shreyashkhare70
+- Discord: crap0x0
