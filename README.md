@@ -72,8 +72,6 @@ I specialize in auditing and analyzing smart contracts across multiple DeFi and 
 ---
 
 # 📬 Contact
-- Telegram: @shreyashkhare_70
-- Twitter: @itzshreyashh
 
 - Twitter: [@itzshreyashh](https://twitter.com/itzshreyashh)  
 - Twitter/X: @itzshreyashh
