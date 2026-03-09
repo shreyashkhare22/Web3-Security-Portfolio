@@ -38,7 +38,7 @@ My reviews focus on:
 | Code4arena  | GTE Perps&Launchpad       | 1 Valid (Low) |  | [Results](#) |
 | Sherlock  | SummerFi | 1 Valid (Medium) |  | [Results](#) |
 | Code4rena  | MegaPot      | 1 Valid (Low) |  | [Results](#) |
-| Code4rena  | SukuFi | 1 Valid (Low) |  | [Results](#) |
+| Code4rena  | SukuFi | 1 Valid (Low) |  | [Results]([#](https://code4rena.com/audits/2025-11-sukukfi/submissions/S-1144)) |
 
 ---
 
