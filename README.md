@@ -36,7 +36,7 @@ My reviews focus on:
 | Platform   | Project         | Findings | Payout | Proof |
 |------------|----------------|----------|--------|-------|
 | Code4arena  | GTE Perps&Launchpad       | 1 Valid (Low) |  | [Results](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad/submissions/S-1485) |
-| Sherlock  | SummerFi | 1 Valid (Medium) |  | [Results]() |
+| Sherlock  | SummerFi | 1 Valid (Medium)(Insufficient Report) |  | [Results]() |
 | Code4rena  | MegaPot      | 1 Valid (Low) |  | [Results](https://code4rena.com/audits/2025-11-megapot/submissions/S-674) |
 | Code4rena  | SukuFi | 1 Valid (Low) |  | [Results](https://code4rena.com/audits/2025-11-sukukfi/submissions/S-1144) |
 
