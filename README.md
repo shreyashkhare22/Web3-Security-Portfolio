@@ -33,12 +33,12 @@ My reviews focus on:
 
 # 🏆 Highlights
 
-| Platform   | Project         | Findings | Payout | Proof |
-|------------|----------------|----------|--------|-------|
-| Code4arena  | GTE Perps&Launchpad       | 1L |  | [Results](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad/submissions/S-1485) |
-| Code4rena  | MegaPot      | 1L |  | [Results](https://code4rena.com/audits/2025-11-megapot/submissions/S-674) |
-| Code4arena  | SukuFi       | 1L |  | [Results]() |
-| Cantina  | Revert Finance       | 1M, 1Info |  | [Results](https://cantina.xyz/u/shreyashkhare70) |
+| Platform   | Project                | Findings  | Rank        | Payout | Proof |
+|------------|------------------------|------------|-------------|--------|-------|
+| Code4rena | GTE Perps&Launchpad    | 1L         |  -  |        | [Results](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad/submissions/S-1485) |
+| Code4rena | MegaPot                | 1L         |     -         |        | [Results](https://code4rena.com/audits/2025-11-megapot/submissions/S-674) |
+| Code4rena | SukuFi                 | 1L         |     -        |        | [Results]() |
+| Cantina   | Revert Finance         | 1M, 1Info | T4th Place |      | [Results](https://cantina.xyz/u/shreyashkhare70) |
 
 
 ---
