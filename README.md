@@ -12,7 +12,7 @@ Specialized in:
 
 ## 🔍 How I Think
 
-I don't scan for bugs.
+I don't scan for bugs.  
 I model attack paths.
 
 Every protocol is:
@@ -35,13 +35,10 @@ My reviews focus on:
 
 | Platform   | Project                | Findings  | Rank        | Payout | Proof |
 |------------|------------------------|------------|-------------|--------|-------|
-| Code4rena | GTE Perps&Launchpad    | 1L         |  -  |        | [Results](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad/submissions/S-1485) |
-| Code4rena | MegaPot                | 1L         |     -         |        | [Results](https://code4rena.com/audits/2025-11-megapot/submissions/S-674) |
-| Code4rena | SukuFi                 | 1L         |     -        |        | [Results]() |
-| Cantina   | Revert Finance         | 1M, 1Info | 4th Place |  $154.42    | [Results](https://cantina.xyz/u/shreyashkhare70) |
-
-
----
+| Code4rena | GTE Perps&Launchpad    | 1L         | - |        | [Results](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad/submissions/S-1485) |
+| Code4rena | MegaPot                | 1L         | - |        | [Results](https://code4rena.com/audits/2025-11-megapot/submissions/S-674) |
+| Code4rena | SukuFi                 | 1L         | - |        | [Results]() |
+| Cantina   | Revert Finance         | 1M, 1Info | 4th Place | $154.42 | [Results](https://cantina.xyz/u/shreyashkhare70) |
 
 ---
 
@@ -49,7 +46,41 @@ My reviews focus on:
 
 | Audit Firm  | Protocol         | Date        | Results |
 |-------------|-----------------|------------|---------|
-| Kann Audits | Mystic Finance | April 2025 | [Results](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/MysticFinance-security-review-2026-05-11.pdf) |
+| Kann Audits | Mystic Finance | April 2025 | [Report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/MysticFinance-security-review-2026-05-11.pdf) |
+
+---
+
+# 🌐 Web2 Security Experience  
+
+I have hands-on experience in identifying real-world vulnerabilities across web and mobile applications, with a focus on high-impact issues.
+
+- Secured **100+ web applications and companies** through vulnerability discovery and responsible disclosure  
+- Recognized and rewarded by multiple organizations, including global brands such as **Samsung** and **Red Bull**  
+- Active bug bounty hunter on platforms like **Intigriti** and **YesWeHack**
+
+### 🔥 Key Vulnerabilities Identified
+
+- IDOR (Insecure Direct Object Reference)  
+- Stored & Reflected XSS  
+- No Rate Limiting / OTP Abuse  
+- Privilege Escalation  
+- Business Logic Flaws  
+- Authentication & Authorization Bypass  
+
+### 🧪 Testing Approach
+
+- Manual Testing (Primary)  
+- Burp Suite (Active/Passive Analysis)  
+- API Security Testing  
+- Android Application Testing  
+- Fuzzing & Endpoint Discovery  
+
+### 📌 Notable Work
+
+- Discovered multiple IDOR vulnerabilities exposing sensitive user data  
+- Identified OTP abuse leading to unlimited request generation  
+- Exploited business logic flaws affecting financial operations  
+- Demonstrated account takeover via stored XSS  
 
 ---
 
@@ -61,6 +92,8 @@ I specialize in auditing and analyzing smart contracts across multiple DeFi and 
 - GameFi Protocols
 - RWA (Real World Asset) Protocols
 - Lending & Borrowing Protocols
+
+---
 
 # 🛠️ Skillset
 
@@ -84,13 +117,17 @@ I specialize in auditing and analyzing smart contracts across multiple DeFi and 
 
 # 🔗 Public Audit Profiles
 
-- Code4rena: https://code4rena.com/@shreyash_khare
-- Sherlock: https://audits.sherlock.xyz/watson/@shreyashkhare_70
-- Cantina: https://cantina.xyz/u/shreyashkhare70
+- Code4rena: https://code4rena.com/@shreyash_khare  
+- Sherlock: https://audits.sherlock.xyz/watson/@shreyashkhare_70  
+- Cantina: https://cantina.xyz/u/shreyashkhare70  
+- Intigriti: https://app.intigriti.com/profile/shreyashkhare_70  
+- YesWeHack: https://yeswehack.com/hunters/shreyash22  
+
+---
 
 # 📬 Contact
 
 - Twitter: [@itzshreyashh](https://twitter.com/itzshreyashh)  
-- Twitter/X: @itzshreyashh
-- Telegram: @shreyashkhare70
-- Discord: crap0x0
+- Twitter/X: @itzshreyashh  
+- Telegram: @shreyashkhare70  
+- Discord: crap0x0  
