@@ -49,7 +49,7 @@ My reviews focus on:
 
 | Audit Firm  | Protocol         | Date        | Results |
 |-------------|-----------------|------------|---------|
-| Kann Audits | Mystic Finance | April 2025 | Completed |
+| Kann Audits | Mystic Finance | April 2025 | [Results](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/MysticFinance-security-review-2026-05-11.pdf) |
 
 ---
 
