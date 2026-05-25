@@ -43,6 +43,16 @@ My reviews focus on:
 
 ---
 
+---
+
+# 🔒 Private Audits  
+
+| Audit Firm  | Protocol         | Date        | Results |
+|-------------|-----------------|------------|---------|
+| Kann Audits | Mystic Finance | April 2025 | Completed |
+
+---
+
 # Protocol Specialization
 
 I specialize in auditing and analyzing smart contracts across multiple DeFi and Web3 protocol categories, including:
