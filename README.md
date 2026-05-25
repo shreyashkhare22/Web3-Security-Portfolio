@@ -118,7 +118,7 @@ I specialize in auditing and analyzing smart contracts across multiple DeFi and 
 # 🔗 Public Audit Profiles
 
 - Code4rena: https://code4rena.com/@shreyash_khare  
-- Sherlock: https://audits.sherlock.xyz/watson/@shreyashkhare_70  
+- Sherlock: https://audits.sherlock.xyz/watson/@shreyashkhare70  
 - Cantina: https://cantina.xyz/u/shreyashkhare70  
 - Intigriti: https://app.intigriti.com/profile/shreyashkhare_70  
 - YesWeHack: https://yeswehack.com/hunters/shreyash22  
